@@ -1,0 +1,110 @@
+[
+  {
+    "model": "Nike Air Max 90",
+    "gender": "Men",
+    "prices": {
+      "2023-01": { "CAD": 210, "USD": 155, "EUR": 145 },
+      "2023-02": { "CAD": 215, "USD": 160, "EUR": 150 },
+      "2023-03": { "CAD": 220, "USD": 165, "EUR": 155 }
+    }
+  },
+  {
+    "model": "Nike Air Max 90",
+    "gender": "Women",
+    "prices": {
+      "2023-01": { "CAD": 200, "USD": 150, "EUR": 140 },
+      "2023-02": { "CAD": 205, "USD": 155, "EUR": 145 },
+      "2023-03": { "CAD": 210, "USD": 160, "EUR": 150 }
+    }
+  },
+  {
+    "model": "Nike Dunk Low Panda",
+    "gender": "Men",
+    "prices": {
+      "2023-01": { "CAD": 190, "USD": 140, "EUR": 130 },
+      "2023-02": { "CAD": 195, "USD": 145, "EUR": 135 },
+      "2023-03": { "CAD": 200, "USD": 150, "EUR": 140 }
+    }
+  },
+  {
+    "model": "Nike Dunk Low Panda",
+    "gender": "Women",
+    "prices": {
+      "2023-01": { "CAD": 185, "USD": 135, "EUR": 125 },
+      "2023-02": { "CAD": 190, "USD": 140, "EUR": 130 },
+      "2023-03": { "CAD": 195, "USD": 145, "EUR": 135 }
+    }
+  },
+  {
+    "model": "Adidas UltraBoost 22",
+    "gender": "Men",
+    "prices": {
+      "2023-01": { "CAD": 250, "USD": 185, "EUR": 175 },
+      "2023-02": { "CAD": 255, "USD": 190, "EUR": 180 },
+      "2023-03": { "CAD": 260, "USD": 195, "EUR": 185 }
+    }
+  },
+  {
+    "model": "Adidas UltraBoost 22",
+    "gender": "Women",
+    "prices": {
+      "2023-01": { "CAD": 240, "USD": 180, "EUR": 170 },
+      "2023-02": { "CAD": 245, "USD": 185, "EUR": 175 },
+      "2023-03": { "CAD": 250, "USD": 190, "EUR": 180 }
+    }
+  },
+  {
+    "model": "Adidas Forum Low",
+    "gender": "Men",
+    "prices": {
+      "2023-01": { "CAD": 180, "USD": 135, "EUR": 125 },
+      "2023-02": { "CAD": 185, "USD": 140, "EUR": 130 },
+      "2023-03": { "CAD": 190, "USD": 145, "EUR": 135 }
+    }
+  },
+  {
+    "model": "Adidas Forum Low",
+    "gender": "Women",
+    "prices": {
+      "2023-01": { "CAD": 175, "USD": 130, "EUR": 120 },
+      "2023-02": { "CAD": 180, "USD": 135, "EUR": 125 },
+      "2023-03": { "CAD": 185, "USD": 140, "EUR": 130 }
+    }
+  },
+  {
+    "model": "Yeezy Boost 350 v2",
+    "gender": "Men",
+    "prices": {
+      "2023-01": { "CAD": 400, "USD": 300, "EUR": 280 },
+      "2023-02": { "CAD": 410, "USD": 310, "EUR": 290 },
+      "2023-03": { "CAD": 420, "USD": 320, "EUR": 300 }
+    }
+  },
+  {
+    "model": "Yeezy Boost 350 v2",
+    "gender": "Women",
+    "prices": {
+      "2023-01": { "CAD": 390, "USD": 295, "EUR": 275 },
+      "2023-02": { "CAD": 400, "USD": 305, "EUR": 285 },
+      "2023-03": { "CAD": 410, "USD": 315, "EUR": 295 }
+    }
+  },
+  {
+    "model": "Air Jordan 1 Retro High OG",
+    "gender": "Men",
+    "prices": {
+      "2023-01": { "CAD": 350, "USD": 260, "EUR": 240 },
+      "2023-02": { "CAD": 355, "USD": 265, "EUR": 245 },
+      "2023-03": { "CAD": 360, "USD": 270, "EUR": 250 }
+    }
+  },
+  {
+    "model": "Air Jordan 1 Retro High OG",
+    "gender": "Women",
+    "prices": {
+      "2023-01": { "CAD": 340, "USD": 255, "EUR": 235 },
+      "2023-02": { "CAD": 345, "USD": 260, "EUR": 240 },
+      "2023-03": { "CAD": 350, "USD": 265, "EUR": 245 }
+    }
+  }
+]
