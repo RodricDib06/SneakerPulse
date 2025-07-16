@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rodricdib06/sneakerpulse/static/css/main.dbed3f29.css",
+    "main.js": "/rodricdib06/sneakerpulse/static/js/main.456e2a25.js",
+    "static/media/nike_air_max_90_men.png": "/rodricdib06/sneakerpulse/static/media/nike_air_max_90_men.982342bf4c798d637395.png",
+    "static/media/nike_air_max_90_women.png": "/rodricdib06/sneakerpulse/static/media/nike_air_max_90_women.ebf633ffc0910dc91ad8.png",
+    "static/media/air_jordan_1_retro_high_og_women.png": "/rodricdib06/sneakerpulse/static/media/air_jordan_1_retro_high_og_women.54d7f236873453a0fdec.png",
+    "static/media/air_jordan_1_retro_high_og_men.png": "/rodricdib06/sneakerpulse/static/media/air_jordan_1_retro_high_og_men.6daf6cb6da951ab4fa48.png",
+    "static/media/adidas_ultra_boost_22_women.png": "/rodricdib06/sneakerpulse/static/media/adidas_ultra_boost_22_women.4888b15423b35d1d3706.png",
+    "static/media/yeezy_boost_350_v2_men.png": "/rodricdib06/sneakerpulse/static/media/yeezy_boost_350_v2_men.5db3102fac1151002a95.png",
+    "static/media/nike_dunk_low_panda_women.png": "/rodricdib06/sneakerpulse/static/media/nike_dunk_low_panda_women.130b68ac5ed3a1264606.png",
+    "static/media/yeezy_boost_350_v2_women.png": "/rodricdib06/sneakerpulse/static/media/yeezy_boost_350_v2_women.01820b2c19ee50729a4f.png",
+    "static/media/adidas_forum_low_women.png": "/rodricdib06/sneakerpulse/static/media/adidas_forum_low_women.29e791aaac4e2b6e2bed.png",
+    "static/media/adidas_forum_low_men.png": "/rodricdib06/sneakerpulse/static/media/adidas_forum_low_men.6cb95200df0198a0da8b.png",
+    "static/media/adidas_ultra_boost_22_men.png": "/rodricdib06/sneakerpulse/static/media/adidas_ultra_boost_22_men.f2faf179eed349db15ea.png",
+    "static/media/nike_dunk_low_panda_male.png": "/rodricdib06/sneakerpulse/static/media/nike_dunk_low_panda_male.66befdae4fd97011f3f9.png",
+    "index.html": "/rodricdib06/sneakerpulse/index.html",
+    "main.dbed3f29.css.map": "/rodricdib06/sneakerpulse/static/css/main.dbed3f29.css.map",
+    "main.456e2a25.js.map": "/rodricdib06/sneakerpulse/static/js/main.456e2a25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbed3f29.css",
+    "static/js/main.456e2a25.js"
+  ]
+}
